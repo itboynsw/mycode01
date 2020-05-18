@@ -7,6 +7,6 @@ public class HelloJava {
     }
 
     private static String getString() {
-        return "张三";
+        return "itBoys";
     }
 }
